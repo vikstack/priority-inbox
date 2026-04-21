@@ -3,7 +3,7 @@
 An AI-powered email categorization tool that connects Gmail and Groq LLM to automatically triage emails into three categories: Action Today, Can Wait, and Noise.
 
 ## Demo
-[Screenshot1.png]
+![Demo](screenshot.png)
 
 ## Tech Stack
 - Python
