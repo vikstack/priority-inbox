@@ -24,7 +24,7 @@ An AI-powered email categorization tool that connects Gmail and Groq LLM to auto
 2. Create virtual environment and activate it
 3. Install dependencies: `pip install -r requirements.txt`
 4. Add your API keys to `.env` file
-5. Run `main.py`
+5. Run `summarize_emails.py`
 
 ## Key Learning
 Built end-to-end API authentication, LLM prompt engineering, and secure credential management.
